@@ -45,3 +45,9 @@ cacheSolve <- function(x, ...) {
 }
 
 
+#Now we can test these functions and make sure that they work.
+#Thank you very much!
+
+
+
+
