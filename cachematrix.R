@@ -1,13 +1,4 @@
-echo "# trabajos" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/sterne94/trabajos.git
-git push -u origin master
-
-
-
-## For this Programming Assignment I am going to write two functions in order to calculate the inverse of a matrix. 
+## For this Programming Assignment, I am going to write two functions in order to calculate the inverse of a matrix. 
 
 
 ## In order to do this, I will write a function called makeCacheMatrix. 
